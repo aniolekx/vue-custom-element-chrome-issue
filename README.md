@@ -3,7 +3,5 @@ Vue Custoem Element Chrome Issue (slot)
 
 
 please run:
-
-yarn run encore dev
-
-to build assets
+to install dependencies: yarn install
+to build assets: yarn run encore dev
